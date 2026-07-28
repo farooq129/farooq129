@@ -18,3 +18,16 @@ mob:         0534796989
 ```
 
 <br clear="right"/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  TECH STACK — Organized by Domain (2026 Trend)                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🛠️ Technical Arsenal
+
+<div align="center">
+
+<!-- Primary Languages & Frameworks -->
+<img src="https://skillicons.dev/icons?i=dotnet,cs,laravel,js,ts,php,nodejs,express,react,nextjs,tailwind,bootstrap,mongodb,mysql,postgres,docker,aws,linux,vercel,git,postman,vue,webflow,nginx&perline=8" />
+
+<br/><br/>
