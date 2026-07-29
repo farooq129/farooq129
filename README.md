@@ -5,7 +5,7 @@
 
 I'm a **Full Stack Web Developer** based in **Riyadh, Saudi Arabia**, specializing in **Scalable APIs and Web Applications**, **Real-time dashboards**, **RAG and AI solutions**, and **cross-platform application development**.
 
-I have **6 plus years of experience in** building **Enterprise-grade Web Applications**, **Web designs**, **AI SaaS products**, end-to-end. I own the complete software development lifecycle—from **database schema UI/UX design** and **Backend and REST API architecture** to **deployment** and **Github Actions / CI/CD Automation**.
+I have **6 plus years of experience in** building **Enterprise-grade Web Applications**, **Web designs**, **AI SaaS products**, end-to-end. I own the complete software development lifecycle—from **database schema, UI/UX design** and **Backend and REST API architecture** to **deployment** and **Github Actions / CI/CD Automation**.
 
 ```yaml
 name:        Farooq Ahmad
